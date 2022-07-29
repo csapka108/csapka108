@@ -1,0 +1,5 @@
+- 👋 Hi, I’m csapka
+- 👀 I’m interested in too many things
+- 🌱 I’m currently learning godot
+- 💞️ I’m looking to collaborate on world peace
+- 📫 How to reach me on dc: Csapka#3385
